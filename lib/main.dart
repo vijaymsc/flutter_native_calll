@@ -40,7 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
               onPressed: (){
              fetchDataFromNative();
               },
-             child: const Text("click"),
+             child: const  Text("click"),
            )
           ],
         ),
